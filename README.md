@@ -1,6 +1,6 @@
 # Playwright_Automation_12Week
-WEEK -1 :-
-Day 1 
+WEEK -1 :
+**Day 1 **
 #java script is synchronus and single threaded language.
 #everything in javascript happens in execution context.
 #there are two components in execution context one is Mermory and other is code component.
