@@ -16,4 +16,15 @@ Day 1
     full_name ="mahesh chothve";
     Roll_no =30;
     age=28;     
-} we can access name by console.log(student.full_name);
+} we can access name by console.log(student.full_name)
+
+//Loops : are used to execute same piece of code again and again.
+there are for , do-while , while loops in JS.
+
+//for-in - Loops are used for objects,arrays e.g. for(let val in product){ }
+
+//for-of - Loops are used for String to iterate each character
+ e.g. let Str="mahesh"
+ for(let c of Str){ 
+    console.log(c)
+ } so it will give us each character from String.
