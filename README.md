@@ -28,3 +28,10 @@ there are for , do-while , while loops in JS.
  for(let c of Str){ 
     console.log(c)
  } so it will give us each character from String.
+
+
+ STRING :- string are sequence of characters used to represent text.
+  String Length:- e.g Str="mahesh"; str.length 
+Arrays : is collection of items .
+let marks=[12,30,25,30];
+console.log(marks.length) //property.
