@@ -5,3 +5,15 @@ Day 1
 #everything in javascript happens in execution context.
 #there are two components in execution context one is Mermory and other is code component.
 #in javascript every code is handled in call stack. It has Global execution context at bottom and it calls new context every time and after execution delete that context.
+#variables are data containers.
+#There are three variables let,var and const.
+#var- variables can be deleared and upadted .A global scope.
+#let-variables can not  be re-delcleared but can be updated.Block scope
+#const- variables can not be re-declared and updated.Block scope.
+
+#primitive and non-primitive data types , and objects.
+#objects are datatypes with different key value pairs and can be accessed by , object_name.key_name e.g if student {
+    full_name ="mahesh chothve";
+    Roll_no =30;
+    age=28;     
+} we can access name by console.log(student.full_name);
