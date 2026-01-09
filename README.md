@@ -35,3 +35,31 @@ there are for , do-while , while loops in JS.
 Arrays : is collection of items .
 let marks=[12,30,25,30];
 console.log(marks.length) //property.
+Push- function used to add new element in array 
+
+Function:- Used to do same work using same code.
+
+Scope:-Global execution scope.   Lexical environment - herrical environments.
+1.Lexical environment → “Where was this written?”
+2.Hoisting → “Memory is allocated first, execution later”
+3.var → silent bugs
+4.let/const → safe failures
+5.Functions > variables in hoisting
+
+
+1.Function accessing parent variable (lexical)
+
+2.Inner function accessing outer variable
+
+3.var hoisting example (undefined)
+Not safe for testing:
+console.log(username);
+var username = "Mahesh";
+
+output:- undefinded 
+
+4.let hoisting example (TDZ error – comment only)
+console.log(username);
+let username = "Mahesh";
+
+Output:-ReferenceError: Cannot access 'username' before initialization
