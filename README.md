@@ -1,6 +1,6 @@
 # Playwright_Automation_12Week
-WEEK -1 :
-**Day 1 **
+WEEK -1 : 
+**Day 1 **  08/01/2026.
 #java script is synchronus and single threaded language.
 #everything in javascript happens in execution context.
 #there are two components in execution context one is Mermory and other is code component.
@@ -33,7 +33,8 @@ there are for , do-while , while loops in JS.
  STRING :- string are sequence of characters used to represent text.
   String Length:- e.g Str="mahesh"; str.length 
   
-Day 2:- 
+Day 2:- 09/01/2026.
+
 Arrays : is collection of items .
 let marks=[12,30,25,30];
 console.log(marks.length) //property.
@@ -65,3 +66,32 @@ console.log(username);
 let username = "Mahesh";
 
 Output:-ReferenceError: Cannot access 'username' before initialization
+
+
+Map, Reduce and filter from array:
+
+Map function is used to transform and array.
+Filter is used to filter the values from the array.
+Reduce is used to accumlate the result from the current object of an array .Use reduce when you want to turn MANY values into ONE result.
+USE reduce for:
+1.Counting test results
+2.Building reports
+3.Grouping data
+4.Calculating totals
+5.Creating summaries for dashboards
+Never Forget:-
+map → change each item
+filter → remove items
+reduce → summarize everything
+
+
+
+Day 3:10/01/2026 - What to Learn
+Object basics
+Destructuring
+Spread operator
+
+Watch:
+
+Namaste JavaScript – Episode 11
+OR Traversy Media – JS Object Destructuring
