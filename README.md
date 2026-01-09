@@ -32,6 +32,8 @@ there are for , do-while , while loops in JS.
 
  STRING :- string are sequence of characters used to represent text.
   String Length:- e.g Str="mahesh"; str.length 
+  
+Day 2:- 
 Arrays : is collection of items .
 let marks=[12,30,25,30];
 console.log(marks.length) //property.
