@@ -1,0 +1,23 @@
+{
+  "name": "playwright_automation_12week",
+  "version": "1.0.0",
+  "description": "WEEK -1 : \r **Day 1 **  08/01/2026.\r #java script is synchronus and single threaded language.\r #everything in javascript happens in execution context.\r #there are two components in execution context one is Mermory and other is code component.\r #in javascript every code is handled in call stack. It has Global execution context at bottom and it calls new context every time and after execution delete that context.\r #variables are data containers.\r #There are three variables let,var and const.\r #var- variables can be deleared and upadted .A global scope.\r #let-variables can not  be re-delcleared but can be updated.Block scope\r #const- variables can not be re-declared and updated.Block scope.",
+  "main": "Day1.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maheshchothve/Playwright_Automation_12Week.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/maheshchothve/Playwright_Automation_12Week/issues"
+  },
+  "homepage": "https://github.com/maheshchothve/Playwright_Automation_12Week#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.9"
+  }
+}
